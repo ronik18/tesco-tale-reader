@@ -28,6 +28,7 @@ Please find below the sample output of my program where the individual word-coun
 
 
 ********* Tale Reader Output *********
+
 The document contains 1193 words.
 
 "Water" has been found 1 times. 
