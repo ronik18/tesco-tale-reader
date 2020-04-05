@@ -10,7 +10,12 @@ public class TaleReaderOrchestrator {
             Logger.getLogger(Logger.GLOBAL_LOGGER_NAME);
 
     public static void main(String[] args) {
-        readTale(args[0]);
+        if (args[0] == null || args[0].isEmpty()) {
+            LOGGER.log(Level.SEVERE, "No input tale-file has been passed to read.");
+        }
+        else {
+            readTale(args[0]);
+        }
     }
 
     public static void readTale(String pathToFile) {
