@@ -29,40 +29,68 @@ Please find below the sample output of my program where the individual word-coun
 
 ********* Tale Reader Output *********
 The document contains 1193 words.
-"Water" has been found 1 times.
+
+"Water" has been found 1 times. 
+
 "Heart" has been found 1 times.
+
 "Practiced" has been found 1 times.
+
 "Turned" has been found 1 times.
+
 "Left" has been found 1 times.
+
 "Donkey" has been found 19 times.
+
 "Jewelry" has been found 1 times.
+
 ……………..
 ……………..
 ……………..
+
 "I" has been found 18 times.
+
 "Am" has been found 5 times.
+
 "An" has been found 4 times.
+
 "The" has been found 82 times.
+
 "Played" has been found 1 times.
+
 ………………
 ……………...
 "At" has been found 8 times.
+
 "Gatekeeper's" has been found 1 times.
+
 "Mind" has been found 1 times.
+
 ……………....
 ………………
 "Year" has been found 1 times.
+
 "Mirror-like" has been found 1 times.
+
 "By" has been found 2 times.
+
 "Your" has been found 4 times.
+
 "Father" has been found 1 times.
+
 "Fond" has been found 1 times.
+
 ……………….
 ……………….
+
 "Made" has been found 1 times.
+
 "Difficult" has been found 1 times.
+
 "He" has been found 43 times.
+
 "Went" has been found 3 times.
+
 ………………. And so on …………………
 
 Process finished with exit code 0
