@@ -2,6 +2,9 @@
 
 I have written this entire application using core-java principles avoiding use of framework like Spring. This is a command-line application which expects a single input string i.e. the absolute path of the input file.
 
+# How to Run:
+We need to pass the absolute file path of the input file as command-line argument.
+
 # Design Principles Used:
 
 # Single Responsibility:
