@@ -1,9 +1,5 @@
 # tesco-tale-reader
 
-Hope you all are safe and doing well.
-
-Please let me share my first version of the solution for the given Tale-Reader Problem. The code is attached as a zip folder along with this email.
-
 Design Principles Used:
 
 Single Responsibility:
